@@ -1,4 +1,5 @@
 # betterme-test-task
+# Please enable raw mode for viewing 
 Test task for BetterMe Olha Paniukhno
 
 Scenario Create Pet with valid data 
